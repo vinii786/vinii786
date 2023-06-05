@@ -1,4 +1,4 @@
-<img align="right" height="500" width='400' src="https://tenor.com/pt-BR/view/capibara-gif-22235175" />
+<img align="right" height="500" width='400' src="https://tenor.com/bFsx1.gif" />
 
 <h1 align="left">Oi <img src="https://media.istockphoto.com/id/177228186/pt/foto/jovem-capivara.jpg?s=612x612&w=0&k=20&c=HIaHC5JhfE3zobczCLIEY6bdy2NdOLq0sskZkuXsM9w=" width="30px"></h1>
 
