@@ -1,6 +1,6 @@
 <img align="right" height="590" src="https://user-images.githubusercontent.com/80070421/145925118-42c21769-a179-49d5-97b2-68cdc9fed6e3.gif" />
 
-<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Oi <img src="https://media.istockphoto.com/id/177228186/pt/foto/jovem-capivara.jpg?s=612x612&w=0&k=20&c=HIaHC5JhfE3zobczCLIEY6bdy2NdOLq0sskZkuXsM9w=" width="30px"></h1>
 
 Sou Vinicius, Sempre em Busca de Desafios e Evolução.
 
