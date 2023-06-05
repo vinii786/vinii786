@@ -11,6 +11,6 @@
   <img src='https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-capivaras-5.gif' align ='center'>
 </p>
  <img src='https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true' align ='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true' align ='center'>
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=vinii786&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+ <img src='[https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=vinii786&hide=html&layout=compact&theme=default)' align ='center'>
+
 
