@@ -7,7 +7,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-<p align="left" style="background:yellow">
+<p align="left">
   <img src='https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-capivaras-5.gif' align ='center'>
 </p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true) <br></br>
