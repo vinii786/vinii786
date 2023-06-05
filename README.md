@@ -1,6 +1,6 @@
 <img align="right" height="350" width='400' src='https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-capivaras-1.gif' />
 
-<h1 align="left">Oi <img src="https://imageup.me/images/a71e9734-1942-442d-9c8b-9b07074b6c56.gif" width="30px"></h1>
+<h1 align="left">Oi <img src="https://imageup.me/images/23edd6b6-88df-4cc0-b2f5-c23547796562.gif" width="30px"></h1>
 
 Sou Vinicius, Sempre em Busca de Desafios e Evolução.
 
