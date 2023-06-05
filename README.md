@@ -25,4 +25,4 @@ Sou Vinicius, Sempre em Busca de Desafios e Evolução.
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="codepen"/>
 </a>
 </p>
-![Snake animation](https://github.com/vinii786)
+![snake gif](https://github.com/vinii786/vinii786/blob/output/github-contribution-grid-snake.svg)
