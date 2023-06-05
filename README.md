@@ -12,5 +12,5 @@
 </p>
  <img src='https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true' align ='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true' align ='center'>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=vinii786&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=vinii786&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
