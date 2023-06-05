@@ -1,4 +1,5 @@
 <img align="right" height="350" width='400' src='https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-capivaras-1.gif' />
+<img src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-capivaras-1.gif" style="border-radius: 20px;">
 
 <h1 align="left">Oi <img src="https://media.istockphoto.com/id/177228186/pt/foto/jovem-capivara.jpg?s=612x612&w=0&k=20&c=HIaHC5JhfE3zobczCLIEY6bdy2NdOLq0sskZkuXsM9w=" width="30px"></h1>
 
@@ -16,7 +17,7 @@ Sou Vinicius, Sempre em Busca de Desafios e Evolução.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <p align="left">
-<img width="430em" border-radious='200px' src="https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vinicius stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vinicius stats"/>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinii786&layout=compact&show_icons=true&theme=tokyonight&count_private=true&" alt="gabriel most languages"/>
 </p>
 👨🏽‍🦲 &nbsp;Social Links
