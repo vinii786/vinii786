@@ -1,4 +1,4 @@
-<img align="right" height="300" width="150" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-capivaras-1.gif" />
+<img align="right" height="300"  src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-capivaras-1.gif" />
 
 <h1 align="left">Oi <img src="https://media.istockphoto.com/id/177228186/pt/foto/jovem-capivara.jpg?s=612x612&w=0&k=20&c=HIaHC5JhfE3zobczCLIEY6bdy2NdOLq0sskZkuXsM9w=" width="30px"></h1>
 
