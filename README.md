@@ -28,4 +28,3 @@ Sou Vinicius, Sempre em Busca de Desafios e Evolução.
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="codepen"/>
 </a>
 </p>
-<img height="590" src="https://user-images.githubusercontent.com/80070421/147801435-16f97c00-1663-4eff-8282-258c3467a88c.gif" />
