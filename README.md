@@ -22,7 +22,6 @@ Sou Vinicius, Sempre em Busca de Desafios e Evolução.
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vinicius stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinii786&layout=compact&show_icons=true&theme=tokyonight&count_private=true&" alt="gabriel most languages"/>
-<img width="530em"src="https://github-readme-stats.vercel.app/api/wakatime?username=vinii786&layout=compact&theme=tokyonight" alt="gabriel" />
 </p>
 
 <br></br>
