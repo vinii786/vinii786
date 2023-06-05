@@ -20,8 +20,6 @@ Sou Vinicius, Sempre em Busca de Desafios e Evolução.
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=vinii786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="vinicius stats"/>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinii786&layout=compact&show_icons=true&theme=tokyonight&count_private=true&" alt="gabriel most languages"/>
 </p>
-
-<br></br>
 👨🏽‍🦲 &nbsp;Social Links
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/vinicius-santos-687596247/" target="_blank">
