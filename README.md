@@ -26,3 +26,4 @@ Sou Vinicius, Sempre em Busca de Desafios e Evolução.
 </a>
 </p>
 
+![Snake animation](https://github.com/vinii786/vinii786/blob/output/github-contribution-grid-snake.svg)
